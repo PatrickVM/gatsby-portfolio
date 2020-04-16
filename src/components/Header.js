@@ -1,17 +1,18 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import FilterHdrIcon from '@material-ui/icons/FilterHdr';
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
+      <span className="icon fa-diamond"></span><i class=""></i>
     </div>
     <div className="content">
       <div className="inner">
         <h1>Jordan Allen</h1>
         <p>
           A fully responsive site designed by{' '}
-          <a href="https://html5up.net">Goodly Development</a>
+          <a href="https:goodlydevelopment.com">Goodly Development</a>
           <br />
         </p>
       </div>
