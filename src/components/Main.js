@@ -38,9 +38,6 @@ class Main extends React.Component {
             and creating safe places for people to process this journey called life.  
             By the way, check out my <a href="#work"> work</a>.
           </p>
-          <p>
-            Things are such as and so is the being of and can be and so forth.
-          </p>
           {close}
         </article>
 
