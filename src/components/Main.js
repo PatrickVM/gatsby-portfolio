@@ -33,10 +33,9 @@ class Main extends React.Component {
             <img src={bwprofile} alt="" />
           </span>
           <p>
-            My name is Jordan Allen and I love to build and create. As a child 
-            I would disassemble vacuum cleaners and anything else i could get 
-            my hands on to see how they work. Web Development offers endless
-            possibilities and I'm just getting started.
+            My name is Patrick Murray. I am constantly curious human being that loves to create ways to make life better.
+            I have a super gorgeous wife with 3, soon to be 4, tiny humans who call me dad. I am a culture enthusiast who loves connecting with people 
+            and creating safe places for people to process this journey called life.  
             By the way, check out my <a href="#work"> work</a>.
           </p>
           <p>
