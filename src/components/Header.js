@@ -8,12 +8,7 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Jordan Allen</h1>
-        <p>
-          A fully responsive site designed by{' '}
-          <a href="https:goodlydevelopment.com">Goodly Development</a>
-          <br />
-        </p>
+        <h1>Patrick V. Murray</h1>
       </div>
     </div>
     <nav>
