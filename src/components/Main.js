@@ -53,7 +53,7 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            I have had the privilege of working for a few different companies as an indepedendent contractor. 
+            I have had the privilege of working with many non-profit organizations to reach their community with hope and love. 
             I enjoy adding value to the teams and projects I am a part of.
           </p>
           <p>
