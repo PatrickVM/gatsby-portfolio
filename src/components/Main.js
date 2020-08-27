@@ -54,12 +54,14 @@ class Main extends React.Component {
           </span>
           <p>
             The past 8+ years I have been traveling the world speaking and helping communities through encouragement and humanitarian efforts. Within the pass 2 years I have developed a love for all things programming. 
-            So far I have helped integrate features into a industrial level software, I have helped create a student database for a non-profit, and I have taught 2D game development through a non-profit to local teenagers. 
-            I am a strategist through and through. I love helping people, businesses, and organizations strategize 
+            So far I have helped integrate features into an industrial level software for a local business, I have helped create a student database for a non-profit in a nearby city, and I have taught 2D game development through a non-profit to local teenagers. 
+            I am a strategist through and through. I love helping people with encouragement and strategy to help them live from the inside out. 
+            I have a knack for helping businesses notice things in their work culture that will help employess become more connected and profitable, as well as helping business make an impact in their local communities. 
+            I also have a passion and gift to help non-profits and organizations become more efficient and effective when resources are not there to hire the help. 
           </p>
           <p>
-            As a full stack developer, I can help with a variety of tasks. My background in 
-            International Non-Profit work brings unique strengths to the projects I work on. 
+            As a full stack developer,a philanthropist, a husband, a father, a culture enthusiast, and a strategist. I can help with a variety of tasks.
+            My background is the people business, which allows for me to be effective anywhere there are people involved.  
           </p>
           {close}
         </article>
