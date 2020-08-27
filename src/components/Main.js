@@ -53,8 +53,9 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            I have had the privilege of working with many non-profit organizations to reach their community with hope and love. 
-            I enjoy adding value to the teams and projects I am a part of.
+            The past 8+ years I have been traveling the world speaking and helping communities through encouragement and humanitarian efforts. Within the pass 2 years I have developed a love for all things programming. 
+            So far I have helped integrate features into a industrial level software, I have helped create a student database for a non-profit, and I have taught 2D game development through a non-profit to local teenagers. 
+            I am a strategist through and through. I love helping people, businesses, and organizations strategize 
           </p>
           <p>
             As a full stack developer, I can help with a variety of tasks. My background in 
