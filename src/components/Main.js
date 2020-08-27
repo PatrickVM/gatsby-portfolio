@@ -33,8 +33,8 @@ class Main extends React.Component {
             <img src={bwprofile} alt="" />
           </span>
           <p>
-            My name is Patrick Murray. I am constantly curious human being that loves to create ways to make life better.
-            I have a super gorgeous wife with 3, soon to be 4, tiny humans who call me dad. I am a culture enthusiast who loves connecting with people 
+            My name is Patrick Murray. I am a constantly curious human being that loves to create ways to make life better.
+            I have a super gorgeous wife and 3, soon to be 4, tiny humans who call me dad. I am a culture enthusiast who loves connecting with people 
             and creating safe places for people to process this journey called life.  
             By the way, check out my <a href="#work"> work</a>.
           </p>
@@ -53,14 +53,11 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            The past 8+ years I have been traveling the world speaking and helping communities through encouragement and humanitarian efforts. Within the pass 2 years I have developed a love for all things programming. 
-            So far I have helped integrate features into an industrial level software for a local business, I have helped create a student database for a non-profit in a nearby city, and I have taught 2D game development through a non-profit to local teenagers. 
-            I am a strategist through and through. I love helping people with encouragement and strategy to help them live from the inside out. 
-            I have a knack for helping businesses notice things in their work culture that will help employess become more connected and profitable, as well as helping business make an impact in their local communities. 
-            I also have a passion and gift to help non-profits and organizations become more efficient and effective when resources are not there to hire the help. 
+            Within the past 2 years I have developed a love for all things programming. 
+            In that time, I have helped integrate features into an industrial level software for a local business, helped create a student database for a non-profit in a nearby city, and taught 2D game development, through a non-profit, to local teenagers. 
           </p>
           <p>
-            As a full stack developer,a philanthropist, a husband, a father, a culture enthusiast, and a strategist. I can help with a variety of tasks.
+            As a full stack developer, a philanthropist, a husband, a father, a culture enthusiast, and a strategist, I can help with a variety of tasks.
             My background is the people business, which allows for me to be effective anywhere there are people involved.  
           </p>
           {close}
@@ -78,13 +75,10 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+          The past 8+ years I have been traveling the world speaking and helping communities through encouragement and humanitarian efforts.
+          I love encouraging people and helping them be most productive by strategizing their life from the inside out.  
+          One of my strengths is helping businesses make an impact in their local communities and become more profitable, by noticing things in their work culture that will better connect employees to the work that they do. 
+          I also have a passion and gift to aid non-profits and organizations to become more efficient and effective when resources are scarce for hiring help. 
           </p>
           {close}
         </article>
@@ -120,14 +114,14 @@ class Main extends React.Component {
             </ul>
           </form>
           <ul className="icons">
-            <li>
+            {/* <li>
               <a
                 href="https://twitter.com/HuntaroSan"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="https://codebushi.com" className="icon fa-facebook">
                 <span className="label">Facebook</span>
