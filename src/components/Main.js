@@ -82,6 +82,7 @@ class Main extends React.Component {
           </p>
           {close}
         </article>
+        
 
         <article
           id="contact"
