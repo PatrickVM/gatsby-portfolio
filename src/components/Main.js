@@ -92,7 +92,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <form method="post" action="#">
+          <form method="post" action="https://api.getform.io/v1/forms/82d41884-1572-4f95-bd6d-bbcf792258ab?token=ykiM1bhcIoHUlKIsN50lFoVFtoFssgp6BXklFXHLNLvmaq9XynMcv0PcoYEj">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
