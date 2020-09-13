@@ -1,3 +1,9 @@
+const dotenv = require('dotenv')
+
+if (process.env.NODE_ENV !== 'production') {
+  dotenv.config()
+}
+
 module.exports = {
   siteMetadata: {
     title: 'Patrick Murray - Web Developer',
@@ -18,5 +24,12 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
+    // {
+    //   resolve: `gatsby-source-contentful`,
+    //   options: {
+    //     spaceId: `czgr55sqvz34`,
+    //     accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+    //   }
+    // },
   ],
 }
